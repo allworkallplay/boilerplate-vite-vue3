@@ -1,0 +1,21 @@
+:root {
+    --teal-medium: #00b5ad;
+    --teal-highlight: #00d7d0;
+    --teal-dark: #01827f;
+
+    --orange-medium: #DF3E00;
+    --orange-highlight: #E86D00;
+    --orange-dark: #C43300;
+
+    --yellow-medium: #FFA200;
+    --yellow-highlight: #FFCF07;
+    --yellow-dark: #E8AD0C;
+
+    --body-medium: #cecece;
+    --body-bright: #ffffff;
+    --body-dark: #a9a9a9;
+
+    --page-background: #151515;
+
+    --notice-color: #ffe77c;
+}

@@ -1,0 +1,17 @@
+@import "_colors.css";
+
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #151515;
+
+  font-size: 16px;
+  font-weight: 300;
+  color: var(--body-medium);
+}
