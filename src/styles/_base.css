@@ -1,3 +1,4 @@
+@import "_fonts.css";
 @import "_colors.css";
 
 *,
@@ -11,6 +12,7 @@ html, body {
   padding: 0;
   background-color: #151515;
 
+  font-family: 'League Spartan', sans-serif;
   font-size: 16px;
   font-weight: 300;
   color: var(--body-medium);
